@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>飘絮不飘</title>
+  
+  <subtitle>CaiFengLin</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://smartdot.club/"/>
+  <updated>2019-08-02T11:59:11.753Z</updated>
+  <id>http://smartdot.club/</id>
+  
+  <author>
+    <name>caifenglin</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>02_变量的定义</title>
+    <link href="http://smartdot.club/%E5%89%8D%E7%AB%AF/ES6/4f798200.html"/>
+    <id>http://smartdot.club/前端/ES6/4f798200.html</id>
+    <published>2019-07-27T13:15:00.000Z</published>
+    <updated>2019-08-02T11:59:11.753Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Aug 02 2019 20:11:44 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;定义-声明变量&quot;&gt;&lt;a href=&quot;#定义-声明变量&quot; class=&quot;headerlink&quot; title=&quot;(定义)声明变量&quot;&gt;&lt;/a
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="http://smartdot.club/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="ES6" scheme="http://smartdot.club/categories/%E5%89%8D%E7%AB%AF/ES6/"/>
+    
+    
+      <category term="ES6" scheme="http://smartdot.club/tags/ES6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>01_ECMA介绍</title>
+    <link href="http://smartdot.club/%E5%89%8D%E7%AB%AF/ES6/4ba0bd93.html"/>
+    <id>http://smartdot.club/前端/ES6/4ba0bd93.html</id>
+    <published>2019-07-27T12:17:09.000Z</published>
+    <updated>2019-08-02T11:59:11.766Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Aug 02 2019 20:11:45 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;ECMA背景&quot;&gt;&lt;a href=&quot;#ECMA背景&quot; class=&quot;headerlink&quot; title=&quot;ECMA背景&quot;&gt;&lt;/a&gt;ECM
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="http://smartdot.club/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="ES6" scheme="http://smartdot.club/categories/%E5%89%8D%E7%AB%AF/ES6/"/>
+    
+    
+      <category term="ES6" scheme="http://smartdot.club/tags/ES6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第2章 SpringCloud服务注册与发现</title>
+    <link href="http://smartdot.club/Spring-Cloud/deef0f2a.html"/>
+    <id>http://smartdot.club/Spring-Cloud/deef0f2a.html</id>
+    <published>2019-03-11T12:17:09.000Z</published>
+    <updated>2019-08-02T11:59:11.770Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Aug 02 2019 20:11:45 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;什么是服务治理&quot;&gt;&lt;a href=&quot;#什么是服务治理&quot; class=&quot;headerlink&quot; title=&quot;什么是服务治理&quot;&gt;&lt;/a&gt;
+      
+    
+    </summary>
+    
+      <category term="Spring Cloud" scheme="http://smartdot.club/categories/Spring-Cloud/"/>
+    
+    
+      <category term="Spring Cloud" scheme="http://smartdot.club/tags/Spring-Cloud/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第1章 网站架构演变过程</title>
+    <link href="http://smartdot.club/Spring-Cloud/aba82773.html"/>
+    <id>http://smartdot.club/Spring-Cloud/aba82773.html</id>
+    <published>2019-03-10T12:17:09.000Z</published>
+    <updated>2019-08-02T11:59:11.766Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Aug 02 2019 20:11:45 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;传统项目架构-单点应用，SSH或者SSM架构&quot;&gt;&lt;a href=&quot;#传统项目架构-单点应用，SSH或者SSM架构&quot; class=&quot;he
+      
+    
+    </summary>
+    
+      <category term="Spring Cloud" scheme="http://smartdot.club/categories/Spring-Cloud/"/>
+    
+    
+      <category term="Spring Cloud" scheme="http://smartdot.club/tags/Spring-Cloud/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Frp实现内网穿透</title>
+    <link href="http://smartdot.club/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/62d5dc2c.html"/>
+    <id>http://smartdot.club/内网穿透/62d5dc2c.html</id>
+    <published>2019-03-06T14:17:09.000Z</published>
+    <updated>2019-08-02T11:59:11.763Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Aug 02 2019 20:11:44 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;内网穿透工具frp简易教程&quot;&gt;&lt;a href=&quot;#内网穿透工具frp简易教程&quot; class=&quot;headerlink&quot; title=&quot;内
+      
+    
+    </summary>
+    
+      <category term="内网穿透" scheme="http://smartdot.club/categories/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/"/>
+    
+    
+      <category term="内网穿透" scheme="http://smartdot.club/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第5章 Jedis操作Redis</title>
+    <link href="http://smartdot.club/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis/d5d71bc6.html"/>
+    <id>http://smartdot.club/数据库/Redis/d5d71bc6.html</id>
+    <published>2019-03-03T12:17:09.000Z</published>
+    <updated>2019-08-02T11:59:11.773Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Aug 02 2019 20:11:45 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;Jedis操作Redis&quot;&gt;&lt;a href=&quot;#Jedis操作Redis&quot; class=&quot;headerlink&quot; title=&quot;Jed
+      
+    
+    </summary>
+    
+      <category term="数据库" scheme="http://smartdot.club/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+      <category term="Redis" scheme="http://smartdot.club/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis/"/>
+    
+    
+      <category term="Redis" scheme="http://smartdot.club/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第2章 Nginx应用</title>
+    <link href="http://smartdot.club/Nginx/76300df3.html"/>
+    <id>http://smartdot.club/Nginx/76300df3.html</id>
+    <published>2019-03-02T14:17:09.000Z</published>
+    <updated>2019-08-02T11:59:11.763Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Aug 02 2019 20:11:44 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;Nginx配置段详解&quot;&gt;&lt;a href=&quot;#Nginx配置段详解&quot; class=&quot;headerlink&quot; title=&quot;Nginx配置
+      
+    
+    </summary>
+    
+      <category term="Nginx" scheme="http://smartdot.club/categories/Nginx/"/>
+    
+    
+      <category term="Nginx" scheme="http://smartdot.club/tags/Nginx/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第3章 Nginx优化</title>
+    <link href="http://smartdot.club/Nginx/966c5443.html"/>
+    <id>http://smartdot.club/Nginx/966c5443.html</id>
+    <published>2019-03-02T14:17:09.000Z</published>
+    <updated>2019-08-02T11:59:11.763Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Aug 02 2019 20:11:44 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;Nginx反向代理与动静分离&quot;&gt;&lt;a href=&quot;#Nginx反向代理与动静分离&quot; class=&quot;headerlink&quot; title=
+      
+    
+    </summary>
+    
+      <category term="Nginx" scheme="http://smartdot.club/categories/Nginx/"/>
+    
+    
+      <category term="Nginx" scheme="http://smartdot.club/tags/Nginx/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第4章 高级话题</title>
+    <link href="http://smartdot.club/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis/e36135cb.html"/>
+    <id>http://smartdot.club/数据库/Redis/e36135cb.html</id>
+    <published>2019-03-02T12:17:09.000Z</published>
+    <updated>2019-08-02T11:59:11.773Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Aug 02 2019 20:11:45 GMT+0800 (GMT+08:00) --&gt;&lt;h3 id=&quot;Redis事物&quot;&gt;&lt;a href=&quot;#Redis事物&quot; class=&quot;headerlink&quot; title=&quot;Redis事物&quot;&gt;&lt;/a&gt;
+      
+    
+    </summary>
+    
+      <category term="数据库" scheme="http://smartdot.club/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+      <category term="Redis" scheme="http://smartdot.club/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis/"/>
+    
+    
+      <category term="Redis" scheme="http://smartdot.club/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第1章 Nginx介绍</title>
+    <link href="http://smartdot.club/Nginx/f8a6e8f7.html"/>
+    <id>http://smartdot.club/Nginx/f8a6e8f7.html</id>
+    <published>2019-03-01T14:17:09.000Z</published>
+    <updated>2019-08-02T11:59:11.760Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Aug 02 2019 20:11:44 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;Nginx介绍&quot;&gt;&lt;a href=&quot;#Nginx介绍&quot; class=&quot;headerlink&quot; title=&quot;Nginx介绍&quot;&gt;&lt;/a&gt;
+      
+    
+    </summary>
+    
+      <category term="Nginx" scheme="http://smartdot.club/categories/Nginx/"/>
+    
+    
+      <category term="Nginx" scheme="http://smartdot.club/tags/Nginx/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第3章 Redis数据类型操作命令</title>
+    <link href="http://smartdot.club/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis/5d009d9f.html"/>
+    <id>http://smartdot.club/数据库/Redis/5d009d9f.html</id>
+    <published>2019-03-01T12:17:09.000Z</published>
+    <updated>2019-08-02T11:59:11.773Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Aug 02 2019 20:11:45 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;Redis数据类型操作命令&quot;&gt;&lt;a href=&quot;#Redis数据类型操作命令&quot; class=&quot;headerlink&quot; title=&quot;R
+      
+    
+    </summary>
+    
+      <category term="数据库" scheme="http://smartdot.club/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+      <category term="Redis" scheme="http://smartdot.club/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis/"/>
+    
+    
+      <category term="Redis" scheme="http://smartdot.club/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第2章 Redis安装和使用</title>
+    <link href="http://smartdot.club/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis/3f361f63.html"/>
+    <id>http://smartdot.club/数据库/Redis/3f361f63.html</id>
+    <published>2019-02-28T12:17:09.000Z</published>
+    <updated>2019-08-02T11:59:11.770Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Aug 02 2019 20:11:45 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;Redis安装和使用&quot;&gt;&lt;a href=&quot;#Redis安装和使用&quot; class=&quot;headerlink&quot; title=&quot;Redis安装
+      
+    
+    </summary>
+    
+      <category term="数据库" scheme="http://smartdot.club/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+      <category term="Redis" scheme="http://smartdot.club/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis/"/>
+    
+    
+      <category term="Redis" scheme="http://smartdot.club/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第2课 flowable工作流概念</title>
+    <link href="http://smartdot.club/%E5%B7%A5%E4%BD%9C%E6%B5%81/Flowable/759ef6d2.html"/>
+    <id>http://smartdot.club/工作流/Flowable/759ef6d2.html</id>
+    <published>2019-02-27T12:17:09.000Z</published>
+    <updated>2019-08-02T11:59:11.766Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Aug 02 2019 20:11:45 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;Shiro简介&quot;&gt;&lt;a href=&quot;#Shiro简介&quot; class=&quot;headerlink&quot; title=&quot;Shiro简介&quot;&gt;&lt;/a&gt;
+      
+    
+    </summary>
+    
+      <category term="工作流" scheme="http://smartdot.club/categories/%E5%B7%A5%E4%BD%9C%E6%B5%81/"/>
+    
+      <category term="Flowable" scheme="http://smartdot.club/categories/%E5%B7%A5%E4%BD%9C%E6%B5%81/Flowable/"/>
+    
+    
+      <category term="Flowable" scheme="http://smartdot.club/tags/Flowable/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第1课 flowable</title>
+    <link href="http://smartdot.club/%E5%B7%A5%E4%BD%9C%E6%B5%81/Flowable/a30db437.html"/>
+    <id>http://smartdot.club/工作流/Flowable/a30db437.html</id>
+    <published>2019-02-27T12:17:09.000Z</published>
+    <updated>2019-08-02T11:59:11.766Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Aug 02 2019 20:11:45 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;Shiro简介&quot;&gt;&lt;a href=&quot;#Shiro简介&quot; class=&quot;headerlink&quot; title=&quot;Shiro简介&quot;&gt;&lt;/a&gt;
+      
+    
+    </summary>
+    
+      <category term="工作流" scheme="http://smartdot.club/categories/%E5%B7%A5%E4%BD%9C%E6%B5%81/"/>
+    
+      <category term="Flowable" scheme="http://smartdot.club/categories/%E5%B7%A5%E4%BD%9C%E6%B5%81/Flowable/"/>
+    
+    
+      <category term="Flowable" scheme="http://smartdot.club/tags/Flowable/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第1章 NoSQL</title>
+    <link href="http://smartdot.club/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis/2f5b619.html"/>
+    <id>http://smartdot.club/数据库/Redis/2f5b619.html</id>
+    <published>2019-02-27T12:17:09.000Z</published>
+    <updated>2019-08-02T11:59:11.766Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Aug 02 2019 20:11:45 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;NoSQL&quot;&gt;&lt;a href=&quot;#NoSQL&quot; class=&quot;headerlink&quot; title=&quot;NoSQL&quot;&gt;&lt;/a&gt;NoSQL&lt;
+      
+    
+    </summary>
+    
+      <category term="数据库" scheme="http://smartdot.club/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+      <category term="Redis" scheme="http://smartdot.club/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis/"/>
+    
+    
+      <category term="Redis" scheme="http://smartdot.club/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>01 VMware Workstation Pro网络Nat模式配置</title>
+    <link href="http://smartdot.club/Linux/8592866f.html"/>
+    <id>http://smartdot.club/Linux/8592866f.html</id>
+    <published>2018-12-28T03:11:54.000Z</published>
+    <updated>2019-08-02T11:59:11.760Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Aug 02 2019 20:11:44 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;VMware-Workstation-Pro网络Nat模式配置&quot;&gt;&lt;a href=&quot;#VMware-Workstation-Pro网络
+      
+    
+    </summary>
+    
+      <category term="Linux" scheme="http://smartdot.club/categories/Linux/"/>
+    
+    
+      <category term="Linux" scheme="http://smartdot.club/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jetty学习上</title>
+    <link href="http://smartdot.club/Jetty/563c4e3.html"/>
+    <id>http://smartdot.club/Jetty/563c4e3.html</id>
+    <published>2018-08-19T12:17:09.000Z</published>
+    <updated>2019-08-02T11:59:11.756Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Fri Aug 02 2019 20:11:44 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;Jetty大纲视图&quot;&gt;&lt;a href=&quot;#Jetty大纲视图&quot; class=&quot;headerlink&quot; title=&quot;Jetty大纲视图&quot;&gt;&lt;/a&gt;Jetty大纲视图&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/images/jetty/jetty01.png&quot; alt=&quot;Jetty大纲视图&quot;&gt;&lt;/p&gt;&lt;h2 id=&quot;什么是Jetty&quot;&gt;&lt;a href=&quot;#什么是Jetty&quot; class=&quot;headerlink&quot; title=&quot;什么是Jetty?&quot;&gt;&lt;/a&gt;什么是Jetty?&lt;/h2&gt;&lt;p&gt;简单来讲 Jetty就是一个开源的HTTP服务器和Servlet引擎，它可以为JSP和Servlet提供运行时环境。比如Java Web应用最常见的Servlet容器Tomcat。由于其轻量级、灵活的特性，Jetty也被应用于一些知名产品中，例如ActiveMQ、Maven、Spark、GoogleAppEngine、Eclipse、Hadoop等。&lt;/p&gt;&lt;h2 id=&quot;为什么使用Jetty&quot;&gt;&lt;a href=&quot;#为什么使用Jetty&quot; class=&quot;headerlink&quot; title=&quot;为什么使用Jetty?&quot;&gt;&lt;/a&gt;为什么使用Jetty?&lt;/h2&gt;&lt;p&gt;异步的Servlet，支持更高的并发量&lt;br&gt;模块化的设计，更灵活，更容易定制，也意味着更高的资源利用率&lt;br&gt;在面对大量的长连接的业务场景下，Jetty默认采用的NIO模型是更好的选择&lt;br&gt;将Jetty嵌入到应用中，使一个普通应用可以快速支持http服务&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Jetty" scheme="http://smartdot.club/categories/Jetty/"/>
+    
+    
+      <category term="Jetty" scheme="http://smartdot.club/tags/Jetty/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>专题:SVN版本控制技术</title>
+    <link href="http://smartdot.club/SVN/a8d8e853.html"/>
+    <id>http://smartdot.club/SVN/a8d8e853.html</id>
+    <published>2018-05-09T12:01:03.000Z</published>
+    <updated>2019-08-02T11:59:11.773Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Aug 02 2019 20:11:45 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;第1章-SVN概述&quot;&gt;&lt;a href=&quot;#第1章-SVN概述&quot; class=&quot;headerlink&quot; title=&quot;第1章 SVN概述
+      
+    
+    </summary>
+    
+      <category term="SVN" scheme="http://smartdot.club/categories/SVN/"/>
+    
+    
+      <category term="SVN" scheme="http://smartdot.club/tags/SVN/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>svn备份还原</title>
+    <link href="http://smartdot.club/SVN/6408e029.html"/>
+    <id>http://smartdot.club/SVN/6408e029.html</id>
+    <published>2018-04-10T00:51:01.000Z</published>
+    <updated>2019-08-02T11:59:11.770Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Aug 02 2019 20:11:45 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;备份:svnadmin dump D:\Repositories\TestProject &amp;gt; D:\svndumpfile\TestPro
+      
+    
+    </summary>
+    
+      <category term="SVN" scheme="http://smartdot.club/categories/SVN/"/>
+    
+    
+      <category term="SVN" scheme="http://smartdot.club/tags/SVN/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>单例模式</title>
+    <link href="http://smartdot.club/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/f1601c3e.html"/>
+    <id>http://smartdot.club/设计模式/f1601c3e.html</id>
+    <published>2017-12-03T12:17:09.000Z</published>
+    <updated>2019-08-02T11:59:11.763Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Aug 02 2019 20:11:45 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;单例模式总结&quot;&gt;&lt;a href=&quot;#单例模式总结&quot; class=&quot;headerlink&quot; title=&quot;单例模式总结&quot;&gt;&lt;/a&gt;单例模
+      
+    
+    </summary>
+    
+      <category term="设计模式" scheme="http://smartdot.club/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+    
+  </entry>
+  
+</feed>
