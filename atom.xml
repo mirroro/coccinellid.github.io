@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>飘絮不飘</title>
+  
+  <subtitle>CaiFengLin</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://smartdot.club/"/>
+  <updated>2021-01-01T07:27:51.158Z</updated>
+  <id>http://smartdot.club/</id>
+  
+  <author>
+    <name>caifenglin</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>4.2 循环应用</title>
+    <link href="http://smartdot.club/C%E8%AF%AD%E8%A8%80/d0078288.html"/>
+    <id>http://smartdot.club/C语言/d0078288.html</id>
+    <published>2021-01-01T07:53:22.000Z</published>
+    <updated>2021-01-01T07:27:51.158Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;循环计算&quot;&gt;&lt;a href=&quot;#循环计算&quot; class=&quot;headerlink&quot; title=&quot;循环计算&quot;&gt;&lt;/a&gt;循环计算&lt;/h3&gt;&lt;h4 id=&quot;log2x&quot;&gt;&lt;a href=&quot;#log2x&quot; class=&quot;headerlink&quot; title=&quot;log2x&quot;&gt;
+      
+    
+    </summary>
+    
+      <category term="C语言" scheme="http://smartdot.club/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+      <category term="C语言" scheme="http://smartdot.club/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>4.1 循环</title>
+    <link href="http://smartdot.club/C%E8%AF%AD%E8%A8%80/ca1771c6.html"/>
+    <id>http://smartdot.club/C语言/ca1771c6.html</id>
+    <published>2021-01-01T06:53:22.000Z</published>
+    <updated>2021-01-01T07:09:01.401Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;while循环&quot;&gt;&lt;a href=&quot;#while循环&quot; class=&quot;headerlink&quot; title=&quot;while循环&quot;&gt;&lt;/a&gt;while循环&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;如果我们把while翻译作“当”，那么一个while循环的意思就是：当条件满足时，不断地重
+      
+    
+    </summary>
+    
+      <category term="C语言" scheme="http://smartdot.club/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+      <category term="C语言" scheme="http://smartdot.club/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>5.1 第三种循环</title>
+    <link href="http://smartdot.club/C%E8%AF%AD%E8%A8%80/d0078288.html"/>
+    <id>http://smartdot.club/C语言/d0078288.html</id>
+    <published>2021-01-01T06:53:22.000Z</published>
+    <updated>2021-01-02T05:43:06.827Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;for循环&quot;&gt;&lt;a href=&quot;#for循环&quot; class=&quot;headerlink&quot; title=&quot;for循环&quot;&gt;&lt;/a&gt;for循环&lt;/h3&gt;&lt;h4 id=&quot;阶乘&quot;&gt;&lt;a href=&quot;#阶乘&quot; class=&quot;headerlink&quot; title=&quot;阶乘&quot;&gt;&lt;/a&gt;阶
+      
+    
+    </summary>
+    
+      <category term="C语言" scheme="http://smartdot.club/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+      <category term="C语言" scheme="http://smartdot.club/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>5.2 循环控制</title>
+    <link href="http://smartdot.club/C%E8%AF%AD%E8%A8%80/6109d724.html"/>
+    <id>http://smartdot.club/C语言/6109d724.html</id>
+    <published>2021-01-01T06:53:22.000Z</published>
+    <updated>2021-01-02T05:51:53.147Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;break-vs-continue&quot;&gt;&lt;a href=&quot;#break-vs-continue&quot; class=&quot;headerlink&quot; title=&quot;break vs continue&quot;&gt;&lt;/a&gt;break vs continue&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;break
+      
+    
+    </summary>
+    
+      <category term="C语言" scheme="http://smartdot.club/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+      <category term="C语言" scheme="http://smartdot.club/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>5.3 循环应用</title>
+    <link href="http://smartdot.club/C%E8%AF%AD%E8%A8%80/e360f26f.html"/>
+    <id>http://smartdot.club/C语言/e360f26f.html</id>
+    <published>2021-01-01T06:53:22.000Z</published>
+    <updated>2021-01-02T08:08:44.821Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;循环应用&quot;&gt;&lt;a href=&quot;#循环应用&quot; class=&quot;headerlink&quot; title=&quot;循环应用&quot;&gt;&lt;/a&gt;循环应用&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/images/c%E8%AF%AD%E8%A8%80/5.3-001.bmp&quot; alt=&quot;式子&quot;&gt;&lt;/
+      
+    
+    </summary>
+    
+      <category term="C语言" scheme="http://smartdot.club/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+      <category term="C语言" scheme="http://smartdot.club/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>3.2 分支</title>
+    <link href="http://smartdot.club/C%E8%AF%AD%E8%A8%80/d32ea010.html"/>
+    <id>http://smartdot.club/C语言/d32ea010.html</id>
+    <published>2020-12-31T02:06:22.000Z</published>
+    <updated>2020-12-31T02:50:31.182Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;嵌套的if&quot;&gt;&lt;a href=&quot;#嵌套的if&quot; class=&quot;headerlink&quot; title=&quot;嵌套的if&quot;&gt;&lt;/a&gt;嵌套的if&lt;/h3&gt;&lt;p&gt;找两个数中的最大&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;/images/c%E8%AF%AD%E8%A8%80/3.2-0
+      
+    
+    </summary>
+    
+      <category term="C语言" scheme="http://smartdot.club/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+      <category term="C语言" scheme="http://smartdot.club/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>3.1 判断</title>
+    <link href="http://smartdot.club/C%E8%AF%AD%E8%A8%80/8ba2c3e8.html"/>
+    <id>http://smartdot.club/C语言/8ba2c3e8.html</id>
+    <published>2020-12-31T01:28:02.000Z</published>
+    <updated>2020-12-31T02:18:43.378Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;计算时间差&quot;&gt;&lt;a href=&quot;#计算时间差&quot; class=&quot;headerlink&quot; title=&quot;计算时间差&quot;&gt;&lt;/a&gt;计算时间差&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;输入两个时间，每个时间分别输入小时和分钟的值，然后输出两个时间之间的差，也以几小时几分表示&lt;/p&gt;&lt;
+      
+    
+    </summary>
+    
+      <category term="C语言" scheme="http://smartdot.club/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+      <category term="C语言" scheme="http://smartdot.club/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2.2 表达式</title>
+    <link href="http://smartdot.club/C%E8%AF%AD%E8%A8%80/c453971c.html"/>
+    <id>http://smartdot.club/C语言/c453971c.html</id>
+    <published>2020-12-30T02:48:12.000Z</published>
+    <updated>2020-12-30T03:17:44.407Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;表达式&quot;&gt;&lt;a href=&quot;#表达式&quot; class=&quot;headerlink&quot; title=&quot;表达式&quot;&gt;&lt;/a&gt;表达式&lt;/h3&gt;&lt;p&gt;一个表达式是一系列运算符和算子的组合，用来计算一个值&lt;/p&gt;&lt;p&gt;amount = x * (1 + 0.033) * (10.03
+      
+    
+    </summary>
+    
+      <category term="C语言" scheme="http://smartdot.club/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+      <category term="C语言" scheme="http://smartdot.club/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2.1 变量</title>
+    <link href="http://smartdot.club/C%E8%AF%AD%E8%A8%80/e1581616.html"/>
+    <id>http://smartdot.club/C语言/e1581616.html</id>
+    <published>2020-12-28T03:11:22.000Z</published>
+    <updated>2020-12-30T02:39:44.034Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;做计算&quot;&gt;&lt;a href=&quot;#做计算&quot; class=&quot;headerlink&quot; title=&quot;做计算&quot;&gt;&lt;/a&gt;做计算&lt;/h3&gt;&lt;blockquote&gt;&lt;p&gt;printf(“23+43=%d\n, 23+43”);&lt;/p&gt;&lt;/blockquote&gt;&lt;h3 id=&quot;算
+      
+    
+    </summary>
+    
+      <category term="C语言" scheme="http://smartdot.club/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+      <category term="C语言" scheme="http://smartdot.club/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1.3 第一个C程序</title>
+    <link href="http://smartdot.club/C%E8%AF%AD%E8%A8%80/bf1319ec.html"/>
+    <id>http://smartdot.club/C语言/bf1319ec.html</id>
+    <published>2020-12-27T09:07:22.000Z</published>
+    <updated>2020-12-28T02:39:12.370Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;初学C的困惑&quot;&gt;&lt;a href=&quot;#初学C的困惑&quot; class=&quot;headerlink&quot; title=&quot;初学C的困惑&quot;&gt;&lt;/a&gt;初学C的困惑&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;用什么软件好？&lt;/li&gt;&lt;li&gt;选择太多有时候是个麻烦&lt;/li&gt;&lt;li&gt;当代语言往往只有一个编程软
+      
+    
+    </summary>
+    
+      <category term="C语言" scheme="http://smartdot.club/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+      <category term="C语言" scheme="http://smartdot.club/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1.2 C语言</title>
+    <link href="http://smartdot.club/C%E8%AF%AD%E8%A8%80/c453971c.html"/>
+    <id>http://smartdot.club/C语言/c453971c.html</id>
+    <published>2020-12-27T07:06:22.000Z</published>
+    <updated>2020-12-31T01:27:27.979Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;为什么是C？&quot;&gt;&lt;a href=&quot;#为什么是C？&quot; class=&quot;headerlink&quot; title=&quot;为什么是C？&quot;&gt;&lt;/a&gt;为什么是C？&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;/images/c%E8%AF%AD%E8%A8%80/1.2-001.png&quot; alt
+      
+    
+    </summary>
+    
+      <category term="C语言" scheme="http://smartdot.club/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+      <category term="C语言" scheme="http://smartdot.club/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1.1 计算机和编程语言</title>
+    <link href="http://smartdot.club/C%E8%AF%AD%E8%A8%80/3ecb78ee.html"/>
+    <id>http://smartdot.club/C语言/3ecb78ee.html</id>
+    <published>2020-12-27T06:22:27.000Z</published>
+    <updated>2020-12-31T01:27:31.789Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;计算机是生活必需品&quot;&gt;&lt;a href=&quot;#计算机是生活必需品&quot; class=&quot;headerlink&quot; title=&quot;计算机是生活必需品&quot;&gt;&lt;/a&gt;计算机是生活必需品&lt;/h3&gt;&lt;p&gt;如果想要自己设计一些功能和行为，让计算机按照你的意图做事情，就需要写程序了&lt;/p&gt;&lt;
+      
+    
+    </summary>
+    
+      <category term="C语言" scheme="http://smartdot.club/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+      <category term="C语言" scheme="http://smartdot.club/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第1章 React新的前端思维方式</title>
+    <link href="http://smartdot.club/%E5%89%8D%E7%AB%AF/React/e0be4b8d.html"/>
+    <id>http://smartdot.club/前端/React/e0be4b8d.html</id>
+    <published>2020-02-01T12:17:09.000Z</published>
+    <updated>2020-12-03T06:20:38.595Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;初始化一个React项目&quot;&gt;&lt;a href=&quot;#初始化一个React项目&quot; class=&quot;headerlink&quot; title=&quot;初始化一个React项目&quot;&gt;&lt;/a&gt;初始化一个React项目&lt;/h2&gt;&lt;p&gt;为了开发React应用，你的电脑是运行微软Windows操作
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="http://smartdot.club/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="React" scheme="http://smartdot.club/categories/%E5%89%8D%E7%AB%AF/React/"/>
+    
+    
+      <category term="React" scheme="http://smartdot.club/tags/React/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>05_函数默认参数、箭头函数、剩余参数</title>
+    <link href="http://smartdot.club/%E5%89%8D%E7%AB%AF/ES6/c110f5e5.html"/>
+    <id>http://smartdot.club/前端/ES6/c110f5e5.html</id>
+    <published>2019-08-21T12:15:00.000Z</published>
+    <updated>2020-12-03T06:20:38.579Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;函数变化&quot;&gt;&lt;a href=&quot;#函数变化&quot; class=&quot;headerlink&quot; title=&quot;函数变化&quot;&gt;&lt;/a&gt;函数变化&lt;/h2&gt;&lt;ol&gt;&lt;li&gt;函数默认参数&lt;/li&gt;&lt;/ol&gt;
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="http://smartdot.club/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="ES6" scheme="http://smartdot.club/categories/%E5%89%8D%E7%AB%AF/ES6/"/>
+    
+    
+      <category term="ES6" scheme="http://smartdot.club/tags/ES6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>04_字符串模板</title>
+    <link href="http://smartdot.club/%E5%89%8D%E7%AB%AF/ES6/46b63ea6.html"/>
+    <id>http://smartdot.club/前端/ES6/46b63ea6.html</id>
+    <published>2019-08-21T12:15:00.000Z</published>
+    <updated>2020-12-03T06:20:38.579Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;字符串模板&quot;&gt;&lt;a href=&quot;#字符串模板&quot; class=&quot;headerlink&quot; title=&quot;字符串模板&quot;&gt;&lt;/a&gt;字符串模板&lt;/h2&gt;&lt;p&gt;优点: 可以随意换行&lt;br&gt;使用: `${变量名字}`&lt;/p&gt;&lt;p&gt;字符串模板便于处理ES5及之前的字符串拼接。ES
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="http://smartdot.club/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="ES6" scheme="http://smartdot.club/categories/%E5%89%8D%E7%AB%AF/ES6/"/>
+    
+    
+      <category term="ES6" scheme="http://smartdot.club/tags/ES6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>03_结构赋值</title>
+    <link href="http://smartdot.club/%E5%89%8D%E7%AB%AF/ES6/c968cb02.html"/>
+    <id>http://smartdot.club/前端/ES6/c968cb02.html</id>
+    <published>2019-08-04T14:15:00.000Z</published>
+    <updated>2020-12-03T06:20:38.579Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;结构赋值&quot;&gt;&lt;a href=&quot;#结构赋值&quot; class=&quot;headerlink&quot; title=&quot;结构赋值&quot;&gt;&lt;/a&gt;结构赋值&lt;/h2&gt;&lt;p&gt;解构赋值语法是一种 Javascript 表达式。通过解构赋值, 可以将属性/值从对象/数组中取出,赋值给其他变量。&lt;br&gt;
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="http://smartdot.club/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="ES6" scheme="http://smartdot.club/categories/%E5%89%8D%E7%AB%AF/ES6/"/>
+    
+    
+      <category term="ES6" scheme="http://smartdot.club/tags/ES6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux下使用Aircrack-ng破解WiFi密码</title>
+    <link href="http://smartdot.club/%E5%85%B6%E5%AE%83/WIFI/f4101695.html"/>
+    <id>http://smartdot.club/其它/WIFI/f4101695.html</id>
+    <published>2019-08-04T13:15:00.000Z</published>
+    <updated>2020-12-03T06:20:38.595Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;暴力破解概述&quot;&gt;&lt;a href=&quot;#暴力破解概述&quot; class=&quot;headerlink&quot; title=&quot;暴力破解概述&quot;&gt;&lt;/a&gt;暴力破解概述&lt;/h2&gt;&lt;p&gt;1：穷举法是一种针对于密码的破译方法。这种方法很像数学上的“完全归纳法”并在密码破译方面得到了广泛的应用。简
+      
+    
+    </summary>
+    
+      <category term="其它" scheme="http://smartdot.club/categories/%E5%85%B6%E5%AE%83/"/>
+    
+      <category term="WIFI" scheme="http://smartdot.club/categories/%E5%85%B6%E5%AE%83/WIFI/"/>
+    
+    
+      <category term="WIFI" scheme="http://smartdot.club/tags/WIFI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>02_变量的定义</title>
+    <link href="http://smartdot.club/%E5%89%8D%E7%AB%AF/ES6/4f798200.html"/>
+    <id>http://smartdot.club/前端/ES6/4f798200.html</id>
+    <published>2019-07-27T13:15:00.000Z</published>
+    <updated>2020-12-03T06:20:38.579Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;定义-声明变量&quot;&gt;&lt;a href=&quot;#定义-声明变量&quot; class=&quot;headerlink&quot; title=&quot;(定义)声明变量&quot;&gt;&lt;/a&gt;(定义)声明变量&lt;/h2&gt;&lt;h3 id=&quot;var定义变量的一些问题&quot;&gt;&lt;a href=&quot;#var定义变量的一些问题&quot; class
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="http://smartdot.club/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="ES6" scheme="http://smartdot.club/categories/%E5%89%8D%E7%AB%AF/ES6/"/>
+    
+    
+      <category term="ES6" scheme="http://smartdot.club/tags/ES6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>01_ECMA介绍</title>
+    <link href="http://smartdot.club/%E5%89%8D%E7%AB%AF/ES6/4ba0bd93.html"/>
+    <id>http://smartdot.club/前端/ES6/4ba0bd93.html</id>
+    <published>2019-07-27T12:17:09.000Z</published>
+    <updated>2020-12-03T06:20:38.579Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;ECMA背景&quot;&gt;&lt;a href=&quot;#ECMA背景&quot; class=&quot;headerlink&quot; title=&quot;ECMA背景&quot;&gt;&lt;/a&gt;ECMA背景&lt;/h2&gt;&lt;p&gt;ECMAScript是一种由Ecma国际（前身为欧洲计算机制造商协会,英文名称是European Compu
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="http://smartdot.club/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="ES6" scheme="http://smartdot.club/categories/%E5%89%8D%E7%AB%AF/ES6/"/>
+    
+    
+      <category term="ES6" scheme="http://smartdot.club/tags/ES6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第2章 SpringCloud服务注册与发现</title>
+    <link href="http://smartdot.club/Spring-Cloud/deef0f2a.html"/>
+    <id>http://smartdot.club/Spring-Cloud/deef0f2a.html</id>
+    <published>2019-03-11T12:17:09.000Z</published>
+    <updated>2020-12-03T06:20:38.595Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;什么是服务治理&quot;&gt;&lt;a href=&quot;#什么是服务治理&quot; class=&quot;headerlink&quot; title=&quot;什么是服务治理&quot;&gt;&lt;/a&gt;什么是服务治理&lt;/h2&gt;&lt;p&gt;在传统rpc远程调用中，服务与服务依赖关系，管理比较复杂，所以需要使用服务治理，管理服务与服务之间依
+      
+    
+    </summary>
+    
+      <category term="Spring Cloud" scheme="http://smartdot.club/categories/Spring-Cloud/"/>
+    
+    
+      <category term="Spring Cloud" scheme="http://smartdot.club/tags/Spring-Cloud/"/>
+    
+  </entry>
+  
+</feed>
